@@ -43,7 +43,7 @@ public class Gato extends Animal {
         System.out.println("\n========== INFORMAÇÕES DO GATO ==============");
         super.mostrarInformacao();
         if (getTipoAnimal().equals("Gato")) {
-            System.out.printf("✨ Os %s são cheios de personalidade!\n", getTipoAnimal());
+            System.out.printf("Os %s são cheios de personalidade!\n", getTipoAnimal());
             arranhaMoveis();
         }
         System.out.printf(" Nome: %s%n", getNomeAnimal());

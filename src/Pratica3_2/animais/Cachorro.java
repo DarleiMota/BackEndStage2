@@ -42,7 +42,7 @@ public class Cachorro extends Animal {
         System.out.println("\n========== INFORMAÇÕES DO CACHORRO ==========");
         super.mostrarInformacao();
         if (getTipoAnimal().equals("Cachorro")) {
-            System.out.printf("✨ Os %s são a alegria da casa!\n", getTipoAnimal());
+            System.out.printf(" Os %s são a alegria da casa!\n", getTipoAnimal());
             abanarRabo();
         }
         System.out.printf(" Nome: %s%n", getNomeAnimal());
