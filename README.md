@@ -123,7 +123,6 @@ _Pixel por pixel, evoluindo no universo da programação._
 
 ---
 
-> 🎤 _"O conhecimento é a espada. A prática, o escudo."
 ## 🧙‍♂️ Desenvolvedor
 
 **Darlei Mota**  
