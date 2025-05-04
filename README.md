@@ -1,38 +1,51 @@
-
 # 🎮👾 Back-End Stage 2 - Java | Oracle Next Education
 
 > _"Suba de nível no código e vença os desafios da Orientação a Objetos."_ 🕹️
 
-![Java Retro Banner](https://raw.githubusercontent.com/DarleiMota/BackEndStage1/main/assets/java-pixel-banner.png)
+## 🕹️ Sobre o Projeto
 
-## 📦 Projeto
-Este repositório contém os desafios da **segunda fase da Formação Back-End** do programa **Oracle Next Education (ONE)** em parceria com a **Alura**. O conteúdo explora temas avançados em **Java**, com foco em **Interfaces**, **Herança**, **Polimorfismo** e a construção de sistemas mais robustos.
-
+Este repositório reúne os desafios desenvolvidos na segunda fase da **Formação Back-End** do programa **Oracle Next Education (ONE)**, realizado em parceria com a **Alura**.
+Nesta etapa, os estudos se aprofundam em conceitos avançados da linguagem **Java**, com foco especial em **Interfaces**, **Herança**, **Polimorfismo** e na construção de sistemas mais organizados, reutilizáveis e robustos — aplicando os pilares da **Programação Orientada a Objetos** de forma prática.
 ---
 
-## 🗂️ Fase 2 - Organização
+## 🗂️ Fase 2 - Estrutura do Projeto
+
+<table>
+<td>
 
 ```
 📁 BackEndStage2/
-├── 01 - Interfaces
-│   ├── Calculavel.java
-│   ├── Produto.java
-│   ├── ProdutoFisico.java
-│   └── Livro.java
-│
-├── 02 - Sistema de Livraria
-│   ├── Main.java
-│   ├── Produto.java
-│   ├── Livro.java
-│   ├── ProdutoFisico.java
-│   └── CalculadoraDePrecos.java
-│    
+├── src/
+│   ├── desafio 
+│   ├──pratica1_1
+│   ├──pratica1_2
+│   ├──pratica1_3
+│   ├──pratica1_4
+│   ├──pratica1_5
+│   ├──pratica2.1
+│   ├──pratica2.2
+│   ├──pratica2.3
+│   ├──pratica2.4
+│   ├──pratica2.5
+│   ├──pratica3.1
+│   ├──pratica3.2
+│   ├──pratica3.3
+│   ├──pratica3.4
+│   ├──pratica4.1
+│   ├──pratica4.2
+│   ├──pratica4.3
+│   ├──pratica4.4
+|   └──br/com/alura/screenmatch
+├── README.md
+
+📌Exercícios com enunciados organizados por pacotes.
+
 ```
+</td>
+<td>
 
----
-
-## 🧩 Conceitos Aplicados
-
+🧩 **Conceitos Aplicados**
+--
 🎯 **Interfaces**
 - Uso do `implements` para contratos de comportamento
 - Implementação de lógica de cálculo de preço final
@@ -49,6 +62,40 @@ Este repositório contém os desafios da **segunda fase da Formação Back-End**
 - Reutilização e legibilidade do código
 
 ---
+</td>
+
+
+**Darlei Mota**  
+📍 Aprendiz de Código em Jornada Java | ONE - Oracle Next Education  
+🔗 [GitHub](https://github.com/DarleiMota) • [LinkedIn](https://www.linkedin.com/in/darleimota/)
+
+---
+
+## 🕹️ Powered by
+
+**Oracle Next Education** + **Alura**  
+_Pixel por pixel, evoluindo no universo da programação._
+
+---
+
+> 🎤 _"O conhecimento é a espada. A prática, o escudo."
+## 🧙‍♂️ Desenvolvedor
+
+**Darlei Mota**  
+📍 Aprendiz de Código em Jornada Java | ONE - Oracle Next Education  
+🔗 [GitHub](https://github.com/DarleiMota) • [LinkedIn](https://www.linkedin.com/in/darleimota/)
+
+---
+
+## 🕹️ Powered by
+
+**Oracle Next Education** + **Alura**  
+_Pixel por pixel, evoluindo no universo da programação._
+
+---
+
+> 🎤 _"O conhecimento é a espada. A prática, o escudo."
+</table>
 
 ## 🛠️ Como Rodar
 
@@ -62,6 +109,20 @@ git clone https://github.com/DarleiMota/BackEndStage2.git
 
 ---
 
+**Darlei Mota**  
+📍 Aprendiz de Código em Jornada Java | ONE - Oracle Next Education  
+🔗 [GitHub](https://github.com/DarleiMota) • [LinkedIn](https://www.linkedin.com/in/darleimota/)
+
+---
+
+## 🕹️ Powered by
+
+**Oracle Next Education** + **Alura**  
+_Pixel por pixel, evoluindo no universo da programação._
+
+---
+
+> 🎤 _"O conhecimento é a espada. A prática, o escudo."
 ## 🧙‍♂️ Desenvolvedor
 
 **Darlei Mota**  
@@ -72,7 +133,6 @@ git clone https://github.com/DarleiMota/BackEndStage2.git
 
 ## 🕹️ Powered by
 
-![ONE Logo](https://hermes.dio.me/companies/3/resources/images/logo.svg)
 **Oracle Next Education** + **Alura**  
 _Pixel por pixel, evoluindo no universo da programação._
 
