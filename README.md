@@ -3,12 +3,11 @@
 > _"Suba de nível no código e vença os desafios da Orientação a Objetos."_ 🕹️
 
 ## 🕹️ Sobre o Projeto
----
 
 Este repositório reúne os desafios desenvolvidos na segunda fase da **Formação Back-End** do programa **Oracle Next Education (ONE)**, realizado em parceria com a **Alura**.
 Nesta etapa, os estudos se aprofundam em conceitos avançados da linguagem **Java**, com foco especial em **Interfaces**, **Herança**, **Polimorfismo** e na construção de sistemas mais organizados, reutilizáveis e robustos — aplicando os pilares da **Programação Orientada a Objetos** de forma prática.
 
----
+--
 
 ## 🗂️ Fase 2 - Estrutura do Projeto
 
