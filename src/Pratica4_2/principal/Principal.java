@@ -1,3 +1,9 @@
+/*
+Crie uma classe CalculadoraSalaRetangular que implementa uma interface CalculoGeometrico
+com os métodos calcularArea() e calcularPerimetro() para calcular a área e o perímetro de
+uma sala retangular. A classe deve receber altura e largura como parâmetros.
+Obs.: Apesar do exercício pedir uma coisa eu fui mais além com outras formas.
+ */
 package Pratica4_2.principal;
 import Pratica4_2.app.CalcularCirculo;
 import Pratica4_2.app.CalcularQuadrado;

@@ -1,3 +1,12 @@
+/*
+Crie uma classe TabuadaMultiplicacao que implementa uma interface Tabuada com o
+método mostrarTabuada() para exibir a tabuada de um número. A classe deve receber o
+número como parâmetro.
+Obs.: Da mesma forma que o exercício anterior eu adicionei outros tipos de calculos.
+ */
+
+
+
 package Pratica4_3.principal;
 
 import Pratica4_3.app.TabuadaAdicao;

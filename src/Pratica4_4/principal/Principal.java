@@ -1,3 +1,11 @@
+/*
+Crie uma interface Calculavel com um método double calcularPrecoFinal().
+Implemente essa interface nas classes Livro e ProdutoFisico, cada uma retornando
+o preço final considerando descontos ou taxas adicionais.
+ */
+
+
+
 package Pratica4_4.principal;
 
 import Pratica4_4.modelos.Livro;

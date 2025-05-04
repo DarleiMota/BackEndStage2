@@ -1,3 +1,11 @@
+/*
+Projeto estudado no curso para aprendizado de todos os temas da Programação Orientada Objeto.
+ */
+
+
+
+
+
 package br.com.alura.screenmatch;
 
 import br.com.alura.screenmatch.calculos.CalculadoraDeTempo;
