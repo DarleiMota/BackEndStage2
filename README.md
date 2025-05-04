@@ -1,6 +1,10 @@
 
 # 🎮👾 Back-End Stage 2 - Java | Oracle Next Education
 
+![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Java](https://img.shields.io/badge/Java-21-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Projetos%20Organizados-brightgreen)
+
 > _"Suba de nível no código e vença os desafios da Orientação a Objetos."_ 🕹️
 
 ## 🕹️ Sobre o Projeto
