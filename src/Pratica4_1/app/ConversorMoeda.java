@@ -1,6 +1,6 @@
-package Pratica4_1.financeiro;
+package Pratica4_1.app;
 
-import Pratica4_1.app.ConversaoFinanceira;
+import Pratica4_1.financeiro.ConversaoFinanceira;
 
 public class ConversorMoeda implements ConversaoFinanceira {
 

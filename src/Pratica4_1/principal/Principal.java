@@ -1,6 +1,6 @@
 package Pratica4_1.principal;
 
-import Pratica4_1.financeiro.ConversorMoeda;
+import Pratica4_1.app.ConversorMoeda;
 
 import java.util.Scanner;
 
