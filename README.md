@@ -64,38 +64,6 @@ Nesta etapa, os estudos se aprofundam em conceitos avançados da linguagem **Jav
 
 ---
 </td>
-
-
-**Darlei Mota**  
-📍 Aprendiz de Código em Jornada Java | ONE - Oracle Next Education  
-🔗 [GitHub](https://github.com/DarleiMota) • [LinkedIn](https://www.linkedin.com/in/darleimota/)
-
----
-
-## 🕹️ Powered by
-
-**Oracle Next Education** + **Alura**  
-_Pixel por pixel, evoluindo no universo da programação._
-
----
-
-> 🎤 _"O conhecimento é a espada. A prática, o escudo."
-## 🧙‍♂️ Desenvolvedor
-
-**Darlei Mota**  
-📍 Aprendiz de Código em Jornada Java | ONE - Oracle Next Education  
-🔗 [GitHub](https://github.com/DarleiMota) • [LinkedIn](https://www.linkedin.com/in/darleimota/)
-
----
-
-## 🕹️ Powered by
-
-**Oracle Next Education** + **Alura**  
-_Pixel por pixel, evoluindo no universo da programação._
-
----
-
-> 🎤 _"O conhecimento é a espada. A prática, o escudo."
 </table>
 
 ## 🛠️ Como Rodar
@@ -107,19 +75,6 @@ git clone https://github.com/DarleiMota/BackEndStage2.git
 
 2. Abra em sua IDE Java favorita (como IntelliJ IDEA ou Eclipse).
 3. Execute as classes `Main.java` para testar os sistemas.
-
----
-
-**Darlei Mota**  
-📍 Aprendiz de Código em Jornada Java | ONE - Oracle Next Education  
-🔗 [GitHub](https://github.com/DarleiMota) • [LinkedIn](https://www.linkedin.com/in/darleimota/)
-
----
-
-## 🕹️ Powered by
-
-**Oracle Next Education** + **Alura**  
-_Pixel por pixel, evoluindo no universo da programação._
 
 ---
 
